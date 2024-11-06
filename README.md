@@ -25,6 +25,5 @@ I'm a computer science student.
 GitHub started as a private repository for my code, and today it has become a digital portfolio that shows everything I do in the development world
 
 ## 🛠️ Future Goals:
-- Improve my knowledge of SAP.
 - Develop a new and advanced application.
 - To implement a fascinating project in the field of deep learning.
