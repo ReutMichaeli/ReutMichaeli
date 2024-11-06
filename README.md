@@ -17,3 +17,10 @@ I'm a computer science student.
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![CRM](https://img.shields.io/badge/CRM-003366?style=for-the-badge&logo=crm&logoColor=white)
 ![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
+
+
+## 🌐 Connect with Me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/reut-michaeli-872469291/)
+
+## 🌟 Fun Fact: 
+GitHub started as a private repository for my code, and today it has become a digital portfolio that shows everything I do in the development world!
