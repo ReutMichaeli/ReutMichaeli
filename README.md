@@ -22,7 +22,7 @@ I'm a computer science student.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/reut-michaeli-872469291/)
 
 ## 🌟 Fun Fact: 
-GitHub started as a private repository for my code, and today it has become a digital portfolio that shows everything I do in the development world!
+GitHub started as a private repository for my code, and today it has become a digital portfolio that shows everything I do in the development world
 
 ## 🛠️ Future Goals:
 - Improve my knowledge of SAP.
