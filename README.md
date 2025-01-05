@@ -20,7 +20,6 @@ I'm a computer science student.
 
 ## 🌐 Connect with Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/reut-michaeli-872469291/)
-## 📧 Email:
 [gmail](mailto:reut555562@gmail.com)
 
 ## 🌟 Fun Fact: 
