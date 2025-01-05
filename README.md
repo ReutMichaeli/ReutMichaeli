@@ -21,7 +21,7 @@ I'm a computer science student.
 ## 🌐 Connect with Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/reut-michaeli-872469291/)
 ## 📧 Email:
-[reut555562@gmail.com](mailto:reut555562@gmail.com)
+[reut555562@gmail.com](gmail)
 
 ## 🌟 Fun Fact: 
 GitHub started as a private repository for my code, and today it has become a digital portfolio that shows everything I do in the development world
